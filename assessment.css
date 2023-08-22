@@ -1,0 +1,19 @@
+body {
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 20px; /*←のは省略されている。上下、左右という意味*/
+  background-color: #337ab7;
+  color: #fdffff;
+  border-style: none;
+}
+/*paddingは内側の余白。marginはソーシャルディスタンスのように、他の要素との距離(余白)を変える*/
+
+input {
+  height: 20px;
+}
